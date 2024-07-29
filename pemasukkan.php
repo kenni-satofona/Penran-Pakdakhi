@@ -321,12 +321,14 @@
 						<div class="form-group">
 							<label>Masukkan Sumber Pemasukkan</label>
 							<select name="sumber" class="form-control" id="sumberTambah">
-									<option>ATM</option>
-									<option>Pemberian</option>
-									<option>Piutang</option>
-									<option>Laba penjualan</option>
-									<option>Pekerjaan</option>
-									<option>Lain - lain</option>
+									<option>Nias</option>
+									<option>Gunungsitoli</option>
+									<option>Sibolga</option>
+									<option>Tarutung</option>
+									<option>Medan</option>
+									<option>Dumai</option>
+									<option>Jakarta</option>
+									<option>Lain-lain</option>
 							</select>
 						</div>
 						<div class="form-group">
@@ -369,12 +371,14 @@
 						<div class="form-group">
 							<label for="sumber">Sumber Pemasukkan</label>
 							<select class="form-control" id="sumber">
-									<option>ATM</option>
-									<option>Pemberian</option>
-									<option>Piutang</option>
-									<option>Laba penjualan</option>
-									<option>Pekerjaan</option>
-									<option>Lain - lain</option>
+							<option>pemasukkan</option>
+									<option>Gunungsitoli</option>
+									<option>Sibolga</option>
+									<option>Tarutung</option>
+									<option>Medan</option>
+									<option>Dumai</option>
+									<option>Jakarta</option>
+									<option>Lain-lain</option>
 							</select>
 						</div>
 						<div class="form-group">

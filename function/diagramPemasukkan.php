@@ -4,7 +4,7 @@
     var myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ["ATM", "Pemberian", "Piutang", "Laba", "Pekerjaan"],
+            labels: ["Nias", "Gunungsitoli", "Sibolga", "Tarutung", "Medan" "Batam", "Jakarta"],
             datasets: [{
                 label: 'Data Pemasukkan',
                 data: [
